@@ -50,6 +50,10 @@ header p{
     
     font-size: 2em;
 }
+ 
+header img{
+    padding-bottom: 60px;
+}
 
 nav #menu{
     margin: 0px;
